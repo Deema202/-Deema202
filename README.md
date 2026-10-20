@@ -1,4 +1,4 @@
-### Hi there, I'm Dema Jamil Ahmad
+### Hi there, I'm Deema Jamil Ahmad
 
 -  **Data Science & AI** undergraduate student at Amman Arab University.
 -  Passionate about programming, algorithms, and exploring the world of artificial intelligence and data science.
